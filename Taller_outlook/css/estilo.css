@@ -1,0 +1,24 @@
+#contac{
+    position: absolute;
+    width: 30%;
+    right: 70%;
+}
+#lado{
+
+    background-color: white;
+    position: absolute;
+    width: 70%;
+    right: 15%;
+}
+#lin{
+    border-top-style: groove;
+  
+    
+    border-left-style: groove;
+    height: 50%;
+    position: absolute;
+    right: 87%
+
+}
+
+
